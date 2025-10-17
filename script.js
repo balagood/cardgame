@@ -94,12 +94,3 @@ restartBtn.addEventListener('click', restartGame);
 createBoard();
 
 
-
-async function testing(params) {
-    const data = await fetch();
-    console.log(data);
-
-}
-console.log(1);
-testing();
-console.log(2);
